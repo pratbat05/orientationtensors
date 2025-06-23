@@ -1,0 +1,3 @@
+-Implementing Research Papers on Fluid Mechanics
+-This repository focuses on the orientation tensors of composites in fluids
+-Estimating and Visualising different approximations in Python
